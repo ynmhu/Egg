@@ -1,3 +1,7 @@
+edit eggdrop.conf
+source scripts/eggshell.tcl
+save / restart bot
+
 [15:03:39] <Markus> !run pwd
 [15:03:39] ***  
 [15:03:39] <YnM-BoT> /home/irc/egg/ynmbot
