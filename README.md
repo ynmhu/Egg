@@ -12,3 +12,13 @@ save / restart bot
 
 [15:03:49] <Markus> !run uname -a
 [15:03:50] <YnM-BoT> Linux ynm.hu 6.1.0-17-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.69-1 (2023-12-30) x86_64 GNU/Linux
+
+
+edit eggdrop.conf
+
+source scripts/whatsapp.tcl
+
+save / restart bot
+
+- New message
+
