@@ -22,4 +22,6 @@ save / restart bot
 
 - New
 
-- ![alt text](http://url/to/img.png)
+- ![alt text](https://postimg.cc/k6ndVzjW)
+
+- ![alt text](https://postimg.cc/sBCzzv76)
