@@ -22,6 +22,6 @@ save / restart bot
 
 - New
 
-- ![alt text](https://postimg.cc/k6ndVzjW)
+- ![alt text](https://i.postimg.cc/nzmVWtBS/Whats-App-k-p-2024-01-04-15-24-04-291415cd.jpg)
 
-- ![alt text](https://postimg.cc/sBCzzv76)
+- ![alt text](https://i.postimg.cc/5t62wz0V/Whats-App-k-p-2024-01-04-15-24-14-1fb3bcf2.jpg)
