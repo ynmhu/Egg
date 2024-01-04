@@ -20,5 +20,6 @@ source scripts/whatsapp.tcl
 
 save / restart bot
 
-- New message
+- New
 
+- ![alt text](http://url/to/img.png)
